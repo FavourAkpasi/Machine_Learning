@@ -1,7 +1,7 @@
 # Machine_Learning
 Understanding Data Science and Machine Learning Algorithms using Python
 
-Below is a General Overview of the Project, more detailed overview of each parts are found in the README of the Folder. 
+Below is a General Overview of the Project, more detailed details of each parts are found in the Jupiter notebook of the Folder. 
 
 # Part zero
 ## Data Analysis Overview
