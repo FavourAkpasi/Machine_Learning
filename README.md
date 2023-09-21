@@ -18,6 +18,7 @@ Below is a General Overview of the Project, more detailed details of each parts 
     Simple Linear Regression,
     Polynomial regression,
     ElasticNet.
+- Library : SciKit Learn
 
 
 
