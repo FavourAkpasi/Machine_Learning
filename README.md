@@ -1,5 +1,5 @@
 # Machine Learning
-Understanding Data Science and Machine Learning Algorithms using Python
+Understanding Data Science and Machine Learning Algorithms using Python and Scikit-learn
 
 Below is a General Overview of All Machine Learning Projects contained in the repo, more detailed details of each projects are found in the included Jupiter notebook. 
 
@@ -24,6 +24,12 @@ Below is a General Overview of All Machine Learning Projects contained in the re
 - Logistic Regression CV model.
 - Library : SciKit Learn
 
+# Part three
+## k-Nearest Neighbors 
+- The main goal of this project is to create a machine learning model capable of detecting the difference between a rock or a mine based on the response of 60 separate sonar frequencies.
+- Dataset **Sonar Data**: https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)
+- KNeighborsClassifier model.
+- Library : SciKit Learn
 
 
 Suggested Resources from which all of the above was Learnt and for further Understanding:
